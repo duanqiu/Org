@@ -15,7 +15,7 @@ some text
 
 
 #+TBLFM: $4=$2+$3
-** two-one
+** TODO [#A] two-one
    some text
 
 
@@ -36,7 +36,7 @@ some text
 
      2) [X] 411
 
-*** [ ] 任务1							       :work:
+*** [#A] [ ] 任务1						       :work:
 
 *** zhirenwu[0/2]
      - [ ] sub1
@@ -50,5 +50,28 @@ some text
 *你好*
 _fgdsfg_ _gfdfsg_ =code= ~房贷首付~
 
-+strike-through
++strike-through+
+
+2
+** TODO 跑步 [1/1]
+   - State "ABORT"      from "TODO"       [2017-11-24 周五 19:04] \\
+     因为今天颓废了
+   - State "DONE"       from "SOMEDAY"    [2017-11-24 周五 19:01]
+   - State "DONE"       from "SOMEDAY"    [2017-11-24 周五 19:00] \\
+     不知不觉就完成了
+   CLOCK: [2017-11-24 周五 18:33]
+   CLOCK: [2017-11-24 周五 18:33]--[2017-11-24 周五 18:33] =>  0:00
+   - State "DONE"       from "TODO"       [2017-11-24 周五 18:23]
+   - State "DONE"       from "TODO"       [2017-11-24 周五 18:23]
+   - State "DONE"       from "TODO"       [2017-11-24 周五 18:23]
+   :PROPERTIES:
+   :LAST_REPEAT: [2017-11-24 周五 19:04]
+   :END:
+   - [X] 跑一公里
+   SCHEDULED: <2017-11-25 周六 09:30 .+1d>
+
+
+*** 做思考题
+    CLOCK: [2017-11-24 周五 18:31]--[2017-11-24 周五 18:33] =>  0:02
+    CLOCK: [2017-11-24 周五 18:28]--[2017-11-24 周五 18:31] =>  0:03
 
