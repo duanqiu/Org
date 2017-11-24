@@ -1,0 +1,54 @@
+* one
+some text
+** one-one
+   some text
+* two
+some text
+
+| Name   | Phone | Age | totle |
+|--------+-------+-----+-------|
+| adolph |    32 |  15 |    47 |
+| dao    |    24 |  17 |    41 |
+| li     |    32 |  24 |    56 |
+| 34     |    23 |  32 |    55 |
+
+
+
+#+TBLFM: $4=$2+$3
+** two-one
+   some text
+
+
++ treeroot
+  + branch
+       jfklsdfjalkdsjf;ljf
+  + baranch2
+
++ [-] 任务1 [50%]
+  1) [X] 子任务
+
+  2) [ ] 没有
+
+  3) [X] 任务3
+
+  4) [-] 任务4
+     1) [ ] 311
+
+     2) [X] 411
+
+*** [ ] 任务1							       :work:
+
+*** zhirenwu[0/2]
+     - [ ] sub1
+     - [ ] sub2
+
+<2017-11-24 周五 09:00>
+
+
+
+
+*你好*
+_fgdsfg_ _gfdfsg_ =code= ~房贷首付~
+
++strike-through
+
