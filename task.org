@@ -7,15 +7,16 @@
     - State "TODO"       from ""           [2017-11-24 周五 19:36]
     :PROPERTIES:
     :LAST_REPEAT: [2017-11-24 周五 19:40]
-    :END:
+    :END:      
 *** TODO [#B] 每天学英语（朗易思听）
-    DEADLINE: <2030-12-23 周一 +1d>
+    DEADLINE: <2017-11-24 周五 23:30 +1d>
     - State "TODO"       from ""           [2017-11-24 周五 19:42]
 *** TODO [#B] 每天学古文
-    DEADLINE: <2000-12-23 周六 +1d>
+    DEADLINE: <2017-11-24 周五 12:00 +1d>
     - State "TODO"       from ""           [2017-11-24 周五 19:43]
-
-*** [#A] 每天心情开朗
+      
+*** TODO [#A] 每天心情开朗
     DEADLINE: <2017-11-24 周五 00:30 +1d>
+    - State "TODO"       from ""           [2017-11-24 周五 19:52]
 
 * Ideas
