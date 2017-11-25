@@ -1,0 +1,6 @@
+* <2017-11-25 周六>
+
+** 英语口语课ppt内容的准备
+Why can machines have the ability to learn? We can assume that the machine is a student，We are teachersWe have a lot of exercises and answers in our hands。We took part of it to train the students。If they don't get the right answer, we'll punish him and let him adjust his learning method。Until he reached what we thought was his best。Then we took out another part of the exercises and asked him to do it without telling him the answer。Compare the answers he gave to the correct answers in our hands。we could assess whether he really learned something。Because according to the law of large numbers, as long as we have enough exercises in our hands, the correct rate of doing exercises on our hands and doing exercises for our unknown answers is similar。As long as we train him to do our exercises, the correct rate is high enough。And then we can confidently say that he learned something, and then we can let him do what we don't know.For example, through the stock data of the past few years, we can use it to predict the future trend of the stock market
+
+
