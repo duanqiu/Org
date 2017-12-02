@@ -1,1 +1,7 @@
 ** 
+* Index
+** TODO 今天要好好歇息
+* Task
+** TODO 看一下spacemacs的教程，有空用一下
+** TODO 有空看一下elisp 要学会看emacs的插件
+
