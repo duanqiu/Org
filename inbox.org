@@ -4,4 +4,5 @@
 * Task
 ** TODO 看一下spacemacs的教程，有空用一下
 ** TODO 有空看一下elisp 要学会看emacs的插件
-
+** TODO 看类脑论文
+   DEADLINE: <2017-12-03 周日 11:30> SCHEDULED: <2017-12-03 周日 09:00>
