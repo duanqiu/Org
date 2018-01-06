@@ -9,3 +9,28 @@ Why can machines have the ability to learn? We can assume that the machine is a 
 
 
 
+
+
+** NEXT test
+   - State "TODO"       from "NEXT"       [2018-01-06 周六 19:21]
+   - State "SOMEDAY"    from ""           [2018-01-06 周六 19:20]
+
+** TODO shave
+   SCHEDULED: <2018-01-06 周六 .+1m>
+   - State "TODO"       from ""           [2018-01-06 周六 19:24]
+   :PROPERTIES:
+   :ARCHIVE:
+   :END:
+
+
+The Org homepage [fn:2]now looks a lot better than it used to. The Org homepage[fn:1] now looks a lot better than it used to.
+
+
+[1] The link is: http://orgmode.org
+[fn:orghome] The link is: http://orgmode.org
+
+* Footnotes
+
+[fn:1] 这儿风景很好 我要多学学
+
+[fn:2] jkjlkdjflkaj

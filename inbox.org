@@ -1,8 +1,6 @@
-** 
-* Index
-** TODO 今天要好好歇息
-* Task
-** TODO 看一下spacemacs的教程，有空用一下
-** TODO 有空看一下elisp 要学会看emacs的插件
-** TODO 看类脑论文
-   DEADLINE: <2017-12-03 周日 11:30> SCHEDULED: <2017-12-03 周日 09:00>
+* Inbox
+** TODO 
+
+* Blog
+**  今日感想
+*高手的路上，爆发式的学习毫无意义，需要细水长流的坚持不懈。减肥也一样。*
