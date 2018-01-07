@@ -1,0 +1,65 @@
+* 本项目用于存放每日任务规划与习惯记录
+
+
+** TODO 每日习惯
+   DEADLINE: <2018-03-15 周四> SCHEDULED: <2018-01-07 周日>
+
+*** TODO 每日用emacs进行时间规划
+    SCHEDULED: <2018-01-08 周一 08:00 +1d>
+    - State "DONE"       from "TODO"       [2018-01-07 周日 11:31] \\
+      ok
+    :PROPERTIES:
+    :LAST_REPEAT: [2018-01-07 周日 11:31]
+    :END:
+
+*** TODO 每日对emacs进行总结
+    SCHEDULED: <2018-01-08 周一 22:30 +1d>
+    - State "DONE"       from "TODO"       [2018-01-07 周日 21:31] \\
+      第一天 感觉还好 进行得不彻底 不过比原来好多了
+    :PROPERTIES:
+    :LAST_REPEAT: [2018-01-07 周日 21:31]
+    :END:
+- [X] 对task.rog中的项目进行总结
+- [X] 对project.org中的项目进行跟进
+- [X] 清空每日临时任务
+
+*** TODO 每周对emacs进行清理
+    SCHEDULED: <2018-01-14 周日 22:00 +1w>
+    - State "DONE"       from "TODO"       [2018-01-07 周日 21:30] \\
+      第一次还没有上面内容
+    :PROPERTIES:
+    :LAST_REPEAT: [2018-01-07 周日 21:30]
+    :END:
+- [ ] Copy摘抄
+- [ ] Blog感想
+- [ ] Study对某件事的理解
+
+
+
+** 每日具体安排
+*** <2018-01-07 周日>
+**** DONE 吴培元视频
+     SCHEDULED: <2018-01-07 周日 12:30>
+     - State "DONE"       from "TODO"       [2018-01-07 周日 14:48] \\
+       看完一集 一个半小时 用时一小时
+**** DONE 吴培元视频
+     SCHEDULED: <2018-01-07 周日 13:30>
+     - State "DONE"       from "TODO"       [2018-01-07 周日 18:03] \\
+       玩王者荣耀
+**** DONE 计算机专业英语
+     SCHEDULED: <2018-01-07 周日 14:30>
+     - State "DONE"       from "TODO"       [2018-01-07 周日 18:01] \\
+       一般般
+**** DONE 计算机神经网络
+     SCHEDULED: <2018-01-07 周日 16:30>
+     - State "DONE"       from "TODO"       [2018-01-07 周日 21:28]
+**** DONE 马克思
+     SCHEDULED: <2018-01-07 周日 18:00>
+     - State "DONE"       from "TODO"       [2018-01-07 周日 21:28]
+**** ABOLISH 吴培元视频
+     SCHEDULED: <2018-01-07 周日 19:30>
+     - State "ABOLISH"    from "TODO"       [2018-01-07 周日 21:29] \\
+       心情很纠结 担心考试
+
+
+
