@@ -1,21 +1,83 @@
-* 本项目用于存放每日任务规划与习惯记录
+* 周期性任务
 
-
-** TODO 每日习惯
-   DEADLINE: <2018-03-15 周四> SCHEDULED: <2018-01-07 周日>
-
-*** TODO 每日用emacs进行时间规划
-    SCHEDULED: <2018-01-08 周一 08:00 +1d>
-    - State "DONE"       from "TODO"       [2018-01-07 周日 11:31] \\
-      ok
+** 每日regular安排
+   SCHEDULED: <2018-04-07 Sat .+1d>
+*** TODO 到实验室
+    DEADLINE: <2018-04-09 Mon 09:10 .+1d> SCHEDULED: <2018-04-09 Mon 08:40 .+1d>
     :PROPERTIES:
-    :LAST_REPEAT: [2018-01-07 周日 11:31]
+    :LAST_REPEAT: [2018-04-08 Sun 09:05]
+    :END:
+    - State "DONE"       from "TODO"       [2018-04-08 Sun 09:05]
+    - State "DONE"       from "TODO"       [2018-04-07 Sat 10:30]
+*** TODO 离开实验室，出去走一圈
+    DEADLINE: <2018-04-09 Mon 12:30 .+1d> SCHEDULED: <2018-04-09 Mon 11:20 .+1d>
+    :PROPERTIES:
+    :LAST_REPEAT: [2018-04-08 Sun 21:53]
+    :END:
+    - State "DONE"       from "TODO"       [2018-04-08 Sun 21:53]
+    - State "DONE"       from "TODO"       [2018-04-08 Sun 21:53]
+    - State "DONE"       from "TODO"       [2018-04-07 Sat 11:29]
+*** TODO 12:30-14:00 看数学视频
+    DEADLINE: <2018-04-09 Mon 14:00 .+1d> SCHEDULED: <2018-04-09 Mon 12:30 .+1d>
+    :PROPERTIES:
+    :LAST_REPEAT: [2018-04-08 Sun 21:56]
+    :END:
+    - State "DONE"       from "TODO"       [2018-04-08 Sun 21:56]
+*** TODO 17:30 出去，觅食
+    DEADLINE: <2018-04-09 Mon 17:50 .+1d> SCHEDULED: <2018-04-09 Mon 17:20 .+1d>
+    :PROPERTIES:
+    :LAST_REPEAT: [2018-04-08 Sun 21:54]
+    :END:
+    - State "DONE"       from "TODO"       [2018-04-08 Sun 21:54]
+*** TODO 9:40 离开实验室
+    DEADLINE: <2018-04-09 Mon 22:00 .+1d> SCHEDULED: <2018-04-09 Mon 21:40 .+1d>
+    :PROPERTIES:
+    :LAST_REPEAT: [2018-04-08 Sun 21:54]
     :END:
 
-*** TODO 每日对emacs进行总结
+    - State "DONE"       from "TODO"       [2018-04-08 Sun 21:54]
+* 减肥记录
+| 日期             | 到实验室时间 |  体重 | 早餐（最豪华了）    | 中餐 | 晚餐 | 评价 | 跑步里程（公里） |
+|------------------+--------------+-------+---------------------+------+------+------+------------------|
+| <2018-04-07 Sat> |         9:00 | 152.6 | 刀削面+油条（10元） | 丑桔 | 橙子 | 一般 |                7 |
+| <2018-04-08 Sun> |         8:55 | 152.0 | 二两肥肠面（6元）   |      |      |      |                  |
+|                  |              |       |                     |      |      |      |                  |
 
-*** TODO 每周对emacs进行清理
 
 
 
-** 每日具体安排
+* 每日规划
+** 2018 
+*** 2018-04 April
+**** 2018-04-07 Saturday
+***** DONE Emacs 规划
+      CLOSED: [2018-04-08 Sun 09:07]
+***** DONE Hands-on ML
+      CLOSED: [2018-04-07 Sat 19:12] DEADLINE: <2018-04-07 Sat 11:30> SCHEDULED: <2018-04-07 Sat 09:20>
+***** CANCELLED 陈邻安概率论                                      :CANCELLED:
+      CLOSED: [2018-04-07 Sat 14:07] DEADLINE: <2018-04-07 Sat 14:00> SCHEDULED: <2018-04-07 Sat 12:30>
+      - State "CANCELLED"  from "TODO"       [2018-04-07 Sat 14:07] \\
+        今天看矮人要塞攻略了，每天安排半小时看这个，可以顺便学习英语
+***** DONE hands-on ML
+      CLOSED: [2018-04-08 Sun 09:05] DEADLINE: <2018-04-07 Sat 17:30> SCHEDULED: <2018-04-07 Sat 14:00>
+***** CANCELLED hands-on ML                                       :CANCELLED:
+      CLOSED: [2018-04-08 Sun 09:06] DEADLINE: <2018-04-07 Sat 21:30> SCHEDULED: <2018-04-07 Sat 18:00>
+      - State "CANCELLED"  from "TODO"       [2018-04-08 Sun 09:06] \\
+        看df的攻略去了
+***** CANCELLED 整理emacs内容                                     :CANCELLED:
+      CLOSED: [2018-04-08 Sun 09:06] DEADLINE: <2018-04-07 Sat 21:50> SCHEDULED: <2018-04-07 Sat 21:30>
+      - State "CANCELLED"  from "TODO"       [2018-04-08 Sun 09:06] \\
+        看df的攻略去了
+**** 2018-04-08 Sunday
+***** DONE 学习英语                                                 :ENGLISH:
+      CLOSED: [2018-04-08 Sun 10:10] DEADLINE: <2018-04-08 Sun 10:00> SCHEDULED: <2018-04-08 Sun 09:10>
+***** DONE hands on ML
+      CLOSED: [2018-04-08 Sun 21:54] DEADLINE: <2018-04-08 Sun 11:30> SCHEDULED: <2018-04-08 Sun 10:00>
+***** DONE 陈临安概率论                                                :MATH:
+      CLOSED: [2018-04-08 Sun 21:54] DEADLINE: <2018-04-08 Sun 14:00> SCHEDULED: <2018-04-08 Sun 13:30>
+***** DONE hands on ML                                                   :ML:
+      CLOSED: [2018-04-08 Sun 21:54] DEADLINE: <2018-04-08 Sun 17:00> SCHEDULED: <2018-04-08 Sun 14:00>
+***** DONE hands on ML                                                   :ML:
+      CLOSED: [2018-04-08 Sun 21:54] DEADLINE: <2018-04-08 Sun 21:30> SCHEDULED: <2018-04-08 Sun 16:10>
+***** DONE 整理emacs内容                                               :TOOL:
+      CLOSED: [2018-04-08 Sun 21:53] DEADLINE: <2018-04-08 Sun 21:50> SCHEDULED: <2018-04-08 Sun 21:30>
