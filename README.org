@@ -25,5 +25,5 @@
 - *project.org-* 是对某项重大的工程进行跟踪记录，建立一个project时要标示出建立时间。完成后写上完成时间并移交到finished.org目录中
 * Org各任务状态的设定
 本设定参考网上 [[http://doc.norang.ca/org-mode.html][org-mode]] 的规划
-[[/home/dellqang/Emacs_files/Org/images/15950QSo.png]]
+ [[./images/15950QSo.png]]
 
