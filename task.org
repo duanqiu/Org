@@ -1,24 +1,43 @@
 * 周期性任务
-** TODO 看论文                                                :paper:doctor:
+** 看论文                                                :paper:doctor:
 *** TODO 完成传统视频动作识别的调研
-    DEADLINE: <2019-04-22 周一  22:00> SCHEDULED: <2019-04-22 周一  09:00>
-** TODO 学英语                                                      :doctor:
-** TODO 刷题                                                          :work:
-*** TODO 看完背包问题的视频，并全部独立编写出来。
-    DEADLINE: <2019-04-23 周二  00:00> SCHEDULED: <2019-04-23 周一  22:00>
-** TODO 学佛                                                        :buddha:
-
+*** TODO 完成对 Gan 的设想
+** 学英语                                                       :doctor:
+*** TODO 每天学习写作一小时
+    DEADLINE: <2019-08-23 Fri> SCHEDULED: <2019-05-29 Wed  12:30 .+1d>
+     [[file:~/Emacs_files/Note/NecessarySkills/IELTS.org][每日英文阅读笔记]] 
+*** TODO 每天练习听力一小时
+    DEADLINE: <2019-08-23 Sat> SCHEDULED: <2019-05-29 Wed  13:30 .+1d>
+     [[file:~/Emacs_files/Note/NecessarySkills/IELTS.org][每日听力笔记]] 
+*** TODO 每天英文单词一小时
+    DEADLINE: <2019-08-23 Sat> SCHEDULED: <2019-05-29 Wed 14:30 .+1d>
+     [[file:~/Emacs_files/Note/NecessarySkills/IELTS.org][每日单词笔记]] 
+*** TODO 每天英文口语一小时
+    DEADLINE: <2019-08-23 Sat> SCHEDULED: <2019-05-29 Wed 16:30. +1d>
+     [[file:~/Emacs_files/Note/NecessarySkills/IELTS.org][每日英文口语笔记]] 
+*** TODO 每天英文阅读一小时
+    DEADLINE: <2019-08-23 Sat> SCHEDULED: <2019-05-29 Wed 16:30. +1d>
+     [[file:~/Emacs_files/Note/NecessarySkills/IELTS.org][每日英文写作笔记]] 
+** WAITING 刷题                                                :work:WAITING:
+   - State "WAITING"    from "TODO"       [2019-05-29 Wed 14:50] \\
+     暂时没有找工作的打算 
+     先考雅思与写论文 
+     刷题的事放在一边
+** WAITING 学佛                                              :buddha:WAITING:
+   - State "WAITING"    from "TODO"       [2019-05-29 Wed 14:51] \\
+     现阶段最主要的任务是考雅思与发文章
+     学佛的事情先放一边
+     最多每天听听录音
 * 每日详细安排
   *每天晚上安排给第二天的计划，9:30 晚上也不用这么匆忙*
   *每周五下午进行当周的日程总结，平时要多记录信息，这样周五才又事情做*
-
-
+  *现在每天早上看 paper，或者解决小 bug，每天下午搞英语，每天吃完饭时跑步，自习搞论文*
 * 生活记录
-| 起床 | 早餐 | 到实验室 | 午餐 | 晚餐 | 回寝室 | 跑步 | 状态 |
-|------+------+----------+------+------+--------+------+------|
-|      |      |          |      |      |        |      |      |
-
+| 起床 | 早餐           | 到实验室 | 午餐          | 晚餐 | 回寝室 | 跑步 | 状态 |
+|------+----------------+----------+---------------+------+--------+------+------|
+| 7:30 | 面皮+猪排+蛋饺 |     9:00 | 鸡腿饭+大盘鸡 |      |        |      |      |
+|      |                |          |               |      |        |      |      |
 * 2019
-** 2019-04 四月
-*** 2019-04-21 星期日
-**** NEXT 重新捡起来  spacemacs 要养成每天记录的习惯，即使以后没把电脑带身边，也要在手机里面记录然后回来汇总 :buddha:work:doctor:paper:
+** 2019-06 June
+*** 2019-06-18 Tuesday
+****  熟悉 emacs，跑视频识别算法
