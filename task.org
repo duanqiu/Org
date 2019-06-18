@@ -1,29 +1,42 @@
 * 周期性任务
-** 看论文                                                :paper:doctor:
-*** TODO 完成传统视频动作识别的调研
+** TODO 看论文                                                 :paper:doctor:
+*** DONE 完成传统视频动作识别的调研
+    CLOSED: [2019-06-18 Tue 14:12]
 *** TODO 完成对 Gan 的设想
-** 学英语                                                       :doctor:
-*** TODO 每天学习写作一小时
-    DEADLINE: <2019-08-23 Fri> SCHEDULED: <2019-05-29 Wed  12:30 .+1d>
+** WAITING 学英语                                            :doctor:WAITING:
+   - State "WAITING"    from              [2019-06-18 Tue 14:11] \\
+     改变策略，暂时不考英语，现在的战略是发一篇好文章+找工作
+*** WAITING 每天学习写作一小时                                      :WAITING:
+    - State "WAITING"    from "TODO"       [2019-06-18 Tue 14:08] \\
+      改变策略，暂时不考英语，现在的战略是发一篇好文章+找工作
      [[file:~/Emacs_files/Note/NecessarySkills/IELTS.org][每日英文阅读笔记]] 
-*** TODO 每天练习听力一小时
-    DEADLINE: <2019-08-23 Sat> SCHEDULED: <2019-05-29 Wed  13:30 .+1d>
+*** TODO 每天练习听力半小时
+    DEADLINE: <2019-09-26 Thu> SCHEDULED: <2019-06-18 Tue 8:30 .+1d>
+    - State "TODO"       from "WAITING"    [2019-06-18 Tue 14:36]
+    - State "WAITING"    from "TODO"       [2019-06-18 Tue 14:09] \\
+      改变人生规划，现阶段主要任务时找工作+发一篇好文章
      [[file:~/Emacs_files/Note/NecessarySkills/IELTS.org][每日听力笔记]] 
-*** TODO 每天英文单词一小时
-    DEADLINE: <2019-08-23 Sat> SCHEDULED: <2019-05-29 Wed 14:30 .+1d>
+*** WAITING 每天英文单词一小时                                      :WAITING:
+    - State "WAITING"    from "TODO"       [2019-06-18 Tue 14:10] \\
+      改变策略，暂时不考英语，现在的战略是发一篇好文章+找工作
      [[file:~/Emacs_files/Note/NecessarySkills/IELTS.org][每日单词笔记]] 
-*** TODO 每天英文口语一小时
-    DEADLINE: <2019-08-23 Sat> SCHEDULED: <2019-05-29 Wed 16:30. +1d>
+*** WAITING 每天英文口语一小时                                      :WAITING:
+    - State "WAITING"    from "TODO"       [2019-06-18 Tue 14:11] \\
+      改变策略，暂时不考英语，现在的战略是发一篇好文章+找工作
      [[file:~/Emacs_files/Note/NecessarySkills/IELTS.org][每日英文口语笔记]] 
-*** TODO 每天英文阅读一小时
-    DEADLINE: <2019-08-23 Sat> SCHEDULED: <2019-05-29 Wed 16:30. +1d>
+*** WAITING 每天英文阅读一小时                                      :WAITING:
+    - State "WAITING"    from "TODO"       [2019-06-18 Tue 14:11] \\
+      改变策略，暂时不考英语，现在的战略是发一篇好文章+找工作
      [[file:~/Emacs_files/Note/NecessarySkills/IELTS.org][每日英文写作笔记]] 
-** WAITING 刷题                                                :work:WAITING:
+** TODO 刷题                                                           :work:
+   DEADLINE: <2019-07-18 Thu> SCHEDULED: <2019-06-18 Tue 18:00 .+1d>
+   - State "TODO"       from "WAITING"    [2019-06-18 Tue 14:12]
    - State "WAITING"    from "TODO"       [2019-05-29 Wed 14:50] \\
      暂时没有找工作的打算 
      先考雅思与写论文 
      刷题的事放在一边
-** WAITING 学佛                                              :buddha:WAITING:
+** TODO 学佛                                                         :buddha:
+   - State "TODO"       from "WAITING"    [2019-06-18 Tue 14:37]
    - State "WAITING"    from "TODO"       [2019-05-29 Wed 14:51] \\
      现阶段最主要的任务是考雅思与发文章
      学佛的事情先放一边
@@ -33,11 +46,18 @@
   *每周五下午进行当周的日程总结，平时要多记录信息，这样周五才又事情做*
   *现在每天早上看 paper，或者解决小 bug，每天下午搞英语，每天吃完饭时跑步，自习搞论文*
 * 生活记录
-| 起床 | 早餐           | 到实验室 | 午餐          | 晚餐 | 回寝室 | 跑步 | 状态 |
-|------+----------------+----------+---------------+------+--------+------+------|
-| 7:30 | 面皮+猪排+蛋饺 |     9:00 | 鸡腿饭+大盘鸡 |      |        |      |      |
-|      |                |          |               |      |        |      |      |
+| Date             | Get Up | breakfask | labTime | lunch   | dinner | bedroom | run | mood |
+|------------------+--------+-----------+---------+---------+--------+---------+-----+------|
+| <2019-06-18 Tue> |   9:00 | None      | None    | rice 13 |        |         |     |      |
+|                  |        |           |         |         |        |         |     |      |
 * 2019
 ** 2019-06 June
 *** 2019-06-18 Tuesday
-****  熟悉 emacs，跑视频识别算法
+**** main task
+     - [X] 熟悉 emacs，养成随时记录的习惯
+     - [X] 跑 R(2+1)D 的代码
+     - [ ] 开始刷题
+**** others
+     - [ ] 今天买了小米手环 4，希望能给我带来惊喜
+     - [ ] 今天早上没有来实验室，就是寝室，感觉学习效率还是不高
+     - [ ] 今天给老师报账，有新的感悟，不要觉得麻烦别人，那是他们的工作，我们唯一要做的事就是表达清晰，保证交流的顺畅 
